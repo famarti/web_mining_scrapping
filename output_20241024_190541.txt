@@ -1,0 +1,112 @@
+Output generado el 20241024_190541
+
+Fold 1 - Random Forest Accuracy: 0.746031746031746
+
+Matriz de Confusión Fold 1:
+[[20  0  0  6]
+ [ 1 27  2  5]
+ [ 3  1 20  6]
+ [ 1  4  3 27]]
+
+Reporte de Clasificación Fold 1:
+              precision    recall  f1-score   support
+
+    economia       0.80      0.77      0.78        26
+    el-mundo       0.84      0.77      0.81        35
+     el-pais       0.80      0.67      0.73        30
+    sociedad       0.61      0.77      0.68        35
+
+    accuracy                           0.75       126
+   macro avg       0.76      0.74      0.75       126
+weighted avg       0.76      0.75      0.75       126
+
+
+Fold 2 - Random Forest Accuracy: 0.6031746031746031
+
+Matriz de Confusión Fold 2:
+[[14  1  3  8]
+ [ 4 24  1  6]
+ [ 2  1 16 11]
+ [ 7  4  2 22]]
+
+Reporte de Clasificación Fold 2:
+              precision    recall  f1-score   support
+
+    economia       0.52      0.54      0.53        26
+    el-mundo       0.80      0.69      0.74        35
+     el-pais       0.73      0.53      0.62        30
+    sociedad       0.47      0.63      0.54        35
+
+    accuracy                           0.60       126
+   macro avg       0.63      0.60      0.60       126
+weighted avg       0.63      0.60      0.61       126
+
+
+Fold 3 - Random Forest Accuracy: 0.536
+
+Matriz de Confusión Fold 3:
+[[11  2  2 10]
+ [ 8 15  0 13]
+ [ 3  1 18  7]
+ [ 8  3  1 23]]
+
+Reporte de Clasificación Fold 3:
+              precision    recall  f1-score   support
+
+    economia       0.37      0.44      0.40        25
+    el-mundo       0.71      0.42      0.53        36
+     el-pais       0.86      0.62      0.72        29
+    sociedad       0.43      0.66      0.52        35
+
+    accuracy                           0.54       125
+   macro avg       0.59      0.53      0.54       125
+weighted avg       0.60      0.54      0.54       125
+
+
+Fold 4 - Random Forest Accuracy: 0.608
+
+Matriz de Confusión Fold 4:
+[[ 9  0  6 10]
+ [ 5 23  3  5]
+ [ 3  0 23  3]
+ [ 3  5  6 21]]
+
+Reporte de Clasificación Fold 4:
+              precision    recall  f1-score   support
+
+    economia       0.45      0.36      0.40        25
+    el-mundo       0.82      0.64      0.72        36
+     el-pais       0.61      0.79      0.69        29
+    sociedad       0.54      0.60      0.57        35
+
+    accuracy                           0.61       125
+   macro avg       0.60      0.60      0.59       125
+weighted avg       0.62      0.61      0.61       125
+
+
+Fold 5 - Random Forest Accuracy: 0.528
+
+Matriz de Confusión Fold 5:
+[[10  1  3 11]
+ [ 5 16  4 11]
+ [ 3  1 16  9]
+ [ 4  3  4 24]]
+
+Reporte de Clasificación Fold 5:
+              precision    recall  f1-score   support
+
+    economia       0.45      0.40      0.43        25
+    el-mundo       0.76      0.44      0.56        36
+     el-pais       0.59      0.55      0.57        29
+    sociedad       0.44      0.69      0.53        35
+
+    accuracy                           0.53       125
+   macro avg       0.56      0.52      0.52       125
+weighted avg       0.57      0.53      0.53       125
+
+
+
+Promedio Accuracy Random Forest: 0.6042412698412699
+
+Matriz de confusión guardada en: confusion_20241024_190541.png
+Output completado. Resultados guardados en: output_20241024_190541.txt

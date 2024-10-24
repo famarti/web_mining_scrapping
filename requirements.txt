@@ -1,0 +1,11 @@
+scrapy==2.6.2
+typing
+pandas
+joblib
+scikit-learn
+bs4
+gensim
+nltk
+matplotlib
+seaborn
+Scrapy==2.6.2

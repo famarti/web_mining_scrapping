@@ -1,3 +1,4 @@
 old
 *.html
 webmining
+text_mining_python\__pycache__
